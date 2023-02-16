@@ -246,8 +246,9 @@
         padding-left: .5rem;
         flex-grow: 1;
     }
+
     .QrCode {
-        width: 10.5rem;
+        width: 10rem;
     }
 
     .skillsList {
@@ -260,10 +261,6 @@
 
     h2 {
         margin-bottom: .2rem;
-    }
-
-    .skillsItem{
-        font-size: 1.3rem;
     }
 }
 

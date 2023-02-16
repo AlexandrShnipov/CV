@@ -36,7 +36,8 @@ export const state = {
     'with the usage JS, React, TypeScript, HTML, CSS, BEM, REM, SCSS, Pixel Perfect, BOOTSTRAP, GULP, WordPress.' +
     ' Every day I strive to learn new technology and work on improving my skills in HTML, CSS, React and JavaScript.' +
     'My plans include improving skills in JS, REACT, TypeScript, Svelte.' +
-    'I am working on improving the level of English and Polish.',
+    'I am working on improving the level of English and Polish.' +
+    'I use GPT chat for my projects)) It is a great helper speeding up development. I like to use it instead of the usual requests in the browser.',
   skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'HTTP', 'Ajax', 'GraphQL', 'Material UI',
     'Bootstrap', 'BEM', 'REM', 'PixelPerfect', 'Wordpress', 'CSS animation', 'Uni tests', 'Formik', 'Svelte'],
   portfolio: {
