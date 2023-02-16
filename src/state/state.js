@@ -35,9 +35,9 @@ export const state = {
   summary: 'Result oriented and enthusiastic Web developer, experienced in creating SPA' +
     'with the usage JS, React, TypeScript, HTML, CSS, BEM, REM, SCSS, Pixel Perfect, BOOTSTRAP, GULP, WordPress.' +
     ' Every day I strive to learn new technology and work on improving my skills in HTML, CSS, React and JavaScript.' +
-    'My plans include improving skills in JS, REACT, TypeScript, Svelte.\n' +
-    'I am working on improving the level of English.\n',
-  skills: ['HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'HTTP', 'Ajax', 'GraphQL', 'Material UI',
+    'My plans include improving skills in JS, REACT, TypeScript, Svelte.' +
+    'I am working on improving the level of English and Polish.',
+  skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'HTTP', 'Ajax', 'GraphQL', 'Material UI',
     'Bootstrap', 'BEM', 'REM', 'PixelPerfect', 'Wordpress', 'CSS animation', 'Uni tests', 'Formik', 'Svelte'],
   portfolio: {
     link: 'https://alexandrshnipov.github.io/portfolio_react/',
