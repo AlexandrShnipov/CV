@@ -14,21 +14,11 @@ const App = () => {
   const [currentState, setCurrentState] = useState(stateEng);
   const {about, location, skills, portfolio, summary, summaryTitle, skillsTitle, linkOpenPortfolio} = currentState;
 
-  let buttonStile = currentState === stateEng
-    ? `${s.changeLanguageButton} ${s.active}`
-    : s.changeLanguageButton;
-
   const makeEnglish = () => {
     setCurrentState(stateEng);
-    buttonStile = currentState === stateEng
-      ? `${s.changeLanguageButton} ${s.active}`
-      : s.changeLanguageButton;
   };
   const makeBelarus = () => {
     setCurrentState(stateBy);
-    buttonStile = currentState === stateBy
-      ? `${s.changeLanguageButton} ${s.active}`
-      : s.changeLanguageButton;
   };
   const makePoland = () => {
     setCurrentState(statePl);
@@ -41,7 +31,9 @@ const App = () => {
           <img className={s.photo} src={about.photo} alt="my photo"/>
         </div>
         <div className={s.changeLanguageButtonBlockPrint}>
-          <button className={buttonStile}
+          <button className={currentState === stateEng
+            ? `${s.changeLanguageButton} ${s.active}`
+            : s.changeLanguageButton}
                   onClick={makeEnglish}>ENG
           </button>
           <button className={currentState === stateBy
@@ -61,7 +53,9 @@ const App = () => {
             <p className={s.mainTitleProfession}>{about.profession}</p>
           </h1>
           <div className={s.changeLanguageButtonBlock}>
-            <button className={buttonStile}
+            <button className={currentState === stateEng
+              ? `${s.changeLanguageButton} ${s.active}`
+              : s.changeLanguageButton}
                     onClick={makeEnglish}>ENG
             </button>
             <button className={currentState === stateBy
