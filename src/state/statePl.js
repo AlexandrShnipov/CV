@@ -33,7 +33,7 @@ export const statePl = {
       icon: location
     },
   summary: 'Zorientowany na wyniki i entuzjastyczny programista stron internetowych, doświadczony w tworzeniu SPA z użyciem JS, React, TypeScript, HTML, CSS, BEM, REM, SCSS, Pixel Perfect, BOOTSTRAP, GULP, WordPress. Każdego dnia staram się uczyć nowych technologii i pracować nad doskonaleniem swoich umiejętności w zakresie HTML, CSS, React i JavaScript.My plany obejmują poprawę umiejętności w JS, REACT, TypeScript, Svelte.Pracuję nad poprawą poziomu języka angielskiego i polskiego.Używam czatu GPT do moich projektów) jest świetnym pomocnikiem przyspieszającym rozwój. Lubię go używać zamiast zwykłych żądań w przeglądarce.',
-  skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
+  skills: ['Angielski: B2', 'Polski: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
     'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'Svelte'],
   portfolio: {
     link: 'https://alexandrshnipov.github.io/portfolio_react/',
