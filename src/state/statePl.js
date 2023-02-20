@@ -9,7 +9,7 @@ import location from '../images/location.png';
 import qrCode from '../images/qrCode.png';
 import finger from '../images/finger.png';
 
-export const state = {
+export const statePl = {
   about: {
     photo: myPhoto,
     profession: 'frontend-developer',
@@ -29,17 +29,12 @@ export const state = {
   location:
     {
       city: 'Wrocław',
-      country: 'Poland',
+      country: 'Polska',
       icon: location
     },
-  summary: 'Result oriented and enthusiastic Web developer, experienced in creating SPA' +
-    'with the usage JS, React, TypeScript, HTML, CSS, BEM, REM, SCSS, Pixel Perfect, BOOTSTRAP, GULP, WordPress.' +
-    ' Every day I strive to learn new technology and work on improving my skills in HTML, CSS, React and JavaScript.' +
-    'My plans include improving skills in JS, REACT, TypeScript, Svelte.' +
-    'I am working on improving the level of English and Polish.' +
-    'I use GPT chat for my projects)) It is a great helper speeding up development. I like to use it instead of the usual requests in the browser.',
-  skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'HTTP', 'Ajax', 'GraphQL', 'Material UI',
-    'Bootstrap', 'BEM', 'REM', 'PixelPerfect', 'Wordpress', 'CSS animation', 'Uni tests', 'Formik', 'Svelte'],
+  summary: 'Zorientowany na wyniki i entuzjastyczny programista stron internetowych, doświadczony w tworzeniu SPA z użyciem JS, React, TypeScript, HTML, CSS, BEM, REM, SCSS, Pixel Perfect, BOOTSTRAP, GULP, WordPress. Każdego dnia staram się uczyć nowych technologii i pracować nad doskonaleniem swoich umiejętności w zakresie HTML, CSS, React i JavaScript.My plany obejmują poprawę umiejętności w JS, REACT, TypeScript, Svelte.Pracuję nad poprawą poziomu języka angielskiego i polskiego.Używam czatu GPT do moich projektów) jest świetnym pomocnikiem przyspieszającym rozwój. Lubię go używać zamiast zwykłych żądań w przeglądarce.',
+  skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
+    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'Svelte'],
   portfolio: {
     link: 'https://alexandrshnipov.github.io/portfolio_react/',
     qrCode: qrCode,
@@ -47,8 +42,9 @@ export const state = {
   },
   experience: {
     frontend: {
-      position: 'Frontend-developer/Site layout',
+      position: 'Frontend-programista / układ strony',
       places: 'Freelance',
+      dateTitle: 'date',
       date: '09/2021-present',
       work: [
         'HTML5, CSS,  BEM, SCSS/LESS, Greed',
@@ -59,44 +55,53 @@ export const state = {
       ]
     },
     customs: {
-      position: 'Customs officer',
+      position: 'Celnik',
       positionsArray: [
         {
-          subPosition: 'Head of Department',
-          places: 'Institute of the customs authorities, Minsk'
+          subPosition: 'Szef działu',
+          places: 'Instytut organów celnych, Mińsk'
         },
         {
-          subPosition: 'Senior inspector - Head of Risk Management Department',
-          places: 'Vitebsk customs, Vitebsk'
+          subPosition: 'Inspektor-Kierownik Działu Zarządzania Ryzykiem',
+          places: 'Celnica w Witebsku, Witebsk'
         }
       ],
+      dateTitle: 'date',
       date: '2004 – 2021',
-      work: ['customs inspection',
-        'databases analysis',
-        'department management up to 30 people',
-        'teamwork',
-        'mentoring',
-        'organization of the education process'
+      work: ['Kontrola celna',
+        'Analiza baz danych',
+        'Zarządzanie działem do 30 osób',
+        'Praca zespołowa',
+        'Mentorowanie',
+        'Organizacja procesu edukacji'
       ]
     }
   },
   education: [
     {
       places: 'Glo-Academy',
-      position: 'WordPress developer course',
+      position: 'Kurs dla deweloperów WordPress',
       site: 'https://glo-academy.org/',
+      dateTitle: 'date',
       date: '2021-2022',
       skills: ['WordPress development']
     }, {
       places: 'IT-Incubator',
       position: 'HTML-Developer',
       site: 'https://it-incubator.io/',
+      dateTitle: 'date',
       date: '2020-2021',
       skills: ['HTML', 'CSS, SCSS/LESS', 'Java Sсript', 'Bootstrap', 'WordPress', 'Git', 'React', 'Email Letters']
     }, {
-      places: 'Vitebsk State Academy of Veterinary Medicine',
-      position: 'veterinarian',
+      places: 'Witebska Państwowa Akademia Medycyny Weterynaryjnej',
+      position: 'weterynarz',
+      dateTitle: 'date',
       date: '1993 – 1998'
     }
-  ]
+  ],
+  summaryTitle: 'Podsumowanie',
+  skillsTitle: 'Umiejętności',
+  experienceTitle: 'Doświadczenie',
+  educationTitle: 'Edukacja',
+  linkOpenPortfolio: 'otwórz moje portfolio'
 };

@@ -1,7 +1,7 @@
-import {state} from '../state/state';
 import s from './Contacts.module.css'
 import {Fragment} from 'react';
-export const Contacts = (props) => {
+import {stateEng as state} from '../state/stateEng';
+export const Contacts = () => {
   return (
     <ul className={s.contactsList}>
       <li className={s.contactsListItem}>
