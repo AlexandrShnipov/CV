@@ -34,7 +34,7 @@ export const stateBy = {
     },
   summary: 'Арыентаваны на вынік і захоплены вэб-распрацоўшчык, які мае вопыт стварэння SPA з выкарыстаннем JS, React, TypeScript, HTML, CSS, BEM, REM, SCSS, Pixel Perfect, BOOTSTRAP, GULP, WordPress. Кожны дзень я імкнуся вывучаць новыя тэхналогіі і працую над паляпшэннем сваіх навыкаў у HTML, CSS, React і JavaScript.У мае планы ўваходзіць ўдасканаленне навыкаў у JS, REACT, TypeScript, Svelte.Я працую над павышэннем ўзроўню валодання англійскай і польскай мовамі.Я выкарыстоўваю GPT чат для сваіх праектаў) гэта выдатны памочнік, які паскарае распрацоўку.',
   skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
-    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'Svelte'],
+    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'Svelte', 'ChatGPT'],
   portfolio: {
     link: 'https://alexandrshnipov.github.io/portfolio_react/',
     qrCode: qrCode,

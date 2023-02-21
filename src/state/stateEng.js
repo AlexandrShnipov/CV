@@ -37,9 +37,9 @@ export const stateEng = {
     ' Every day I strive to learn new technology and work on improving my skills in HTML, CSS, React and JavaScript.' +
     'My plans include improving skills in JS, REACT, TypeScript, Svelte.' +
     'I am working on improving the level of English and Polish.' +
-    'I use GPT chat for my projects) It is a great helper speeding up development. I like to use it instead of the usual requests in the browser.',
+    'I use ChatGPT for my projects) It is a great helper speeding up development. I like to use it instead of the usual requests in the browser.',
   skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
-    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'Svelte'],
+    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'Svelte', 'ChatGPT'],
   portfolio: {
     link: 'https://alexandrshnipov.github.io/portfolio_react/',
     qrCode: qrCode,
