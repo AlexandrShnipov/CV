@@ -42,6 +42,7 @@
 .mainTitle {
     letter-spacing: .5rem;
     margin-bottom: 2rem;
+    text-align: end;
 }
 
 .mainTitleName {
@@ -54,7 +55,7 @@
     font-size: 2rem;
     font-weight: 700;
     text-transform: uppercase;
-    text-align: end;
+
 }
 
 
@@ -211,7 +212,7 @@
     }
 
     .header {
-        height: 15rem;
+        height: 16rem;
         padding: .7rem;
         gap: .5rem;
     }
@@ -232,7 +233,7 @@
     }
 }
 
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 390px) {
 
     .mainTitleName {
         font-size: 1.5rem;
@@ -240,6 +241,12 @@
 
     .mainTitleProfession {
         font-size: 1.1rem;
+    }
+}
+
+@media only screen and (max-width: 318px){
+    .header{
+        height: 18rem;
     }
 }
 
