@@ -22,7 +22,7 @@ export const stateEng = {
       {name: 'linkedin', img: linkedin, link: 'https://www.linkedin.com/in/alexander-shnipov-717101204/'},
       {name: 'telegram', img: telegram, link: 'https://t.me/S_Shnipov'},
       {name: 'skype', img: skype, link: 'https://join.skype.com/invite/Ohvpl9s9beq2'},
-      {name: 'email', img: email, link: 'sshnipov@gmail.com'},
+      {name: 'email', img: email, link: 'mailto:sshnipov@gmail.com'},
       {name: 'github', img: github, link: 'https://github.com/settings/profile'}
     ]
   },
