@@ -81,7 +81,7 @@ export const statePl = {
     {
       places: 'Glo-Academy',
       position: 'Kurs dla deweloperów WordPress',
-      site: 'https://glo-academy.org/',
+      site: 'https://glo.academy/',
       dateTitle: 'date',
       date: '2021-2022',
       skills: ['WordPress development']

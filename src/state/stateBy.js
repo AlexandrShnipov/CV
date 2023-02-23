@@ -82,7 +82,7 @@ export const stateBy = {
     {
       places: 'Glo-Academy',
       position: 'Курс WordPress',
-      site: 'https://glo-academy.org/',
+      site: 'https://glo.academy/',
       dateTitle: 'дата',
       date: '2021-2022',
       skills: ['Распрацоўка WordPress']
