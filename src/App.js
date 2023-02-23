@@ -8,6 +8,8 @@ import {Education} from './education/Education';
 import {stateEng} from './state/stateEng';
 import {stateBy} from './state/stateBy';
 import {statePl} from './state/statePl';
+import PrintButton from './buttonForPrint/ButtonForPrint';
+import ButtonForPrint from './buttonForPrint/ButtonForPrint';
 
 const App = () => {
 
@@ -68,7 +70,9 @@ const App = () => {
               : s.changeLanguageButton}
                     onClick={makePoland}>POL
             </button>
+            <ButtonForPrint/>
           </div>
+
           <Contacts/>
         </div>
 
