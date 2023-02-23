@@ -86,7 +86,7 @@ export const stateEng = {
     {
       places: 'Glo-Academy',
       position: 'WordPress developer course',
-      site: 'https://glo-academy.org/',
+      site: 'https://glo.academy/',
       dateTitle: 'date',
       date: '2021-2022',
       skills: ['WordPress development']
