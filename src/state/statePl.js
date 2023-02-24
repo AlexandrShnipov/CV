@@ -32,9 +32,9 @@ export const statePl = {
       country: 'Polska',
       icon: location
     },
-  summary: 'Zorientowany na wyniki i entuzjastyczny programista stron internetowych, doświadczony w tworzeniu SPA z użyciem JS, React, TypeScript, HTML, CSS, BEM, REM, SCSS, Pixel Perfect, BOOTSTRAP, GULP, WordPress. Każdego dnia staram się uczyć nowych technologii i pracować nad doskonaleniem swoich umiejętności w zakresie HTML, CSS, React i JavaScript.My plany obejmują poprawę umiejętności w JS, REACT, TypeScript, Svelte.Pracuję nad poprawą poziomu języka angielskiego i polskiego.Używam czatu GPT do moich projektów) jest świetnym pomocnikiem przyspieszającym rozwój. Lubię go używać zamiast zwykłych żądań w przeglądarce.',
-  skills: ['Angielski: B2', 'Polski: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
-    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'Svelte','ChatGPT'],
+  summary: 'Zorientowany na wyniki i entuzjastyczny programista stron internetowych, doświadczony w tworzeniu SPA z użyciem JS, React, TypeScript, HTML, CSS, WordPress. Każdego dnia staram się uczyć nowych technologii i pracować nad doskonaleniem swoich umiejętności w zakresie Svelte, React i JavaScript.My plany obejmują poprawę umiejętności w JS, REACT, TypeScript, Svelte. Jako doświadczony deweloper Svelte, posiadam pełne zrozumienie podejścia tej platformy do tworzenia aplikacji internetowych, opartego na procesie kompilacji, który umożliwia tworzenie wysoce wydajnych i szybko ładowanych aplikacji, w tym wykorzystania potężnego modelu programowania reaktywnego i systemu komponentów.Pracuję nad poprawą poziomu języka angielskiego i polskiego.Używam czatu GPT do moich projektów) jest świetnym pomocnikiem przyspieszającym rozwój.',
+  skills: ['Angielski: B2', 'Polski: A2', 'HTML', 'CSS/SCSS', 'JS', 'Svelte', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
+    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik','ChatGPT'],
   portfolio: {
     link: 'https://alexandrshnipov.github.io/portfolio_react/',
     qrCode: qrCode,
@@ -48,7 +48,7 @@ export const statePl = {
       date: '09/2021-present',
       work: [
         'HTML5, CSS,  BEM, SCSS/LESS, Greed',
-        'JS, REACT, TypeScript, Svelte, GraphQL', 'pixel perfect',
+        'JS, Svelte, REACT, TypeScript,, GraphQL', 'pixel perfect',
         'Bootstrap',
         'Email letters',
         'WordPress'

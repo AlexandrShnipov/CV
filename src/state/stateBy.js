@@ -32,9 +32,9 @@ export const stateBy = {
       country: 'Польшча',
       icon: location
     },
-  summary: 'Арыентаваны на вынік і захоплены вэб-распрацоўшчык, які мае вопыт стварэння SPA з выкарыстаннем JS, React, TypeScript, HTML, CSS, BEM, REM, SCSS, Pixel Perfect, BOOTSTRAP, GULP, WordPress. Кожны дзень я імкнуся вывучаць новыя тэхналогіі і працую над паляпшэннем сваіх навыкаў у HTML, CSS, React і JavaScript.У мае планы ўваходзіць ўдасканаленне навыкаў у JS, REACT, TypeScript, Svelte.Я працую над павышэннем ўзроўню валодання англійскай і польскай мовамі.Я выкарыстоўваю GPT чат для сваіх праектаў) гэта выдатны памочнік, які паскарае распрацоўку.',
-  skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
-    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'Svelte', 'ChatGPT'],
+  summary: 'Арыентаваны на вынік і захоплены вэб-распрацоўшчык, які мае вопыт стварэння SPA з выкарыстаннем JS, React, TypeScript, HTML, CSS, WordPress. Кожны дзень я імкнуся вывучаць новыя тэхналогіі і працую над паляпшэннем сваіх навыкаў у Svelte, React.У мае планы ўваходзіць ўдасканаленне навыкаў у JS, REACT, Svelte, TypeScript.Як дасведчаны распрацоўшчык Svelte, я маю зразумеленне яго падыходу да вэб-развіцця, які аснованы на працэсе кампіляцыі, які дазваляе ствараць высокапрадукцыйныя і хутка загружаемыя прыкладанні, у тым ліку, выкарыстанні магутнага рэактыўнага мадэлю праграмавання і сістэмы кампанентаў. Я працую над павышэннем ўзроўню валодання англійскай і польскай мовамі.Я выкарыстоўваю GPT чат для сваіх праектаў) гэта выдатны памочнік, які паскарае распрацоўку.',
+  skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'Svelte', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
+    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'ChatGPT'],
   portfolio: {
     link: 'https://alexandrshnipov.github.io/portfolio_react/',
     qrCode: qrCode,
@@ -48,7 +48,7 @@ export const stateBy = {
       date: '09/2021-present',
       work: [
         'HTML5, CSS,  BEM, SCSS/LESS, Greed',
-        'JS, REACT, TypeScript, Svelte, GraphQL', 'pixel perfect',
+        'JS, Svelte, REACT, TypeScript,, GraphQL', 'pixel perfect',
         'Bootstrap',
         'Email letters',
         'WordPress'

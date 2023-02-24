@@ -33,13 +33,15 @@ export const stateEng = {
       icon: location
     },
   summary: 'Result oriented and enthusiastic Web developer, experienced in creating SPA' +
-    'with the usage JS, React, TypeScript, HTML, CSS, BEM, REM, SCSS, Pixel Perfect, BOOTSTRAP, GULP, WordPress.' +
-    ' Every day I strive to learn new technology and work on improving my skills in HTML, CSS, React and JavaScript.' +
+    'with the usage JS, React, TypeScript,Svelte, HTML, CSS, WordPress.' +
+    ' Every day I strive to learn new technology and work on improving my skills in Svelte, React.' +
     'My plans include improving skills in JS, REACT, TypeScript, Svelte.' +
+    'As a developer proficient in Svelte, I have understanding of its approach to web development, which is based on a compilation process that enables highly efficient, fast-loading applications,\n' +
+    ' including its powerful reactive programming model, component system.'+
     'I am working on improving the level of English and Polish.' +
-    'I use ChatGPT for my projects) It is a great helper speeding up development. I like to use it instead of the usual requests in the browser.',
-  skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
-    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'Svelte', 'ChatGPT'],
+    'I use ChatGPT for my projects) It is a great helper speeding up development.',
+  skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'React',  'Svelte', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
+    'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'ChatGPT'],
   portfolio: {
     link: 'https://alexandrshnipov.github.io/portfolio_react/',
     qrCode: qrCode,
@@ -53,7 +55,7 @@ export const stateEng = {
       date: '09/2021-present',
       work: [
         'HTML5, CSS,  BEM, SCSS/LESS, Greed',
-        'JS, REACT, TypeScript, Svelte, GraphQL', 'pixel perfect',
+        'JS, Svelte, REACT, TypeScript,, GraphQL', 'pixel perfect',
         'Bootstrap',
         'Email letters',
         'WordPress'
