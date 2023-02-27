@@ -19,7 +19,7 @@ export const stateBy = {
   contacts: {
     tel: {name: 'tel', img: tel, text: '+48 516 364 062', link: 'tel:+48516364062'},
     socials: [
-      {name: 'linkedin', img: linkedin, link: 'https://www.linkedin.com/in/alexander-shnipov-717101204/'},
+      {name: 'linkedin', img: linkedin, link: 'https://www.linkedin.com/in/aliaksander-shnipau-717101204/'},
       {name: 'telegram', img: telegram, link: 'https://t.me/S_Shnipov'},
       {name: 'skype', img: skype, link: 'https://join.skype.com/invite/Ohvpl9s9beq2'},
       {name: 'email', img: email, link: 'sshnipov@gmail.com'},
@@ -32,7 +32,7 @@ export const stateBy = {
       country: 'Польшча',
       icon: location
     },
-  summary: 'Арыентаваны на вынік і захоплены вэб-распрацоўшчык, які мае вопыт стварэння SPA з выкарыстаннем JS, React, TypeScript, HTML, CSS, WordPress. Кожны дзень я імкнуся вывучаць новыя тэхналогіі і працую над паляпшэннем сваіх навыкаў у Svelte, React.У мае планы ўваходзіць ўдасканаленне навыкаў у JS, REACT, Svelte, TypeScript.Як дасведчаны распрацоўшчык Svelte, я маю зразумеленне яго падыходу да вэб-развіцця, які аснованы на працэсе кампіляцыі, які дазваляе ствараць высокапрадукцыйныя і хутка загружаемыя прыкладанні, у тым ліку, выкарыстанні магутнага рэактыўнага мадэлю праграмавання і сістэмы кампанентаў. Я працую над павышэннем ўзроўню валодання англійскай і польскай мовамі.Я выкарыстоўваю GPT чат для сваіх праектаў) гэта выдатны памочнік, які паскарае распрацоўку.',
+  summary: 'Я арыентаваны на вынік і захоплены вэб-распрацоўшчык з вопытам стварэння одностраничных прыкладанняў (SPA) з выкарыстаннем JavaScript (JS), React, TypeScript, Svelte, HTML, CSS і WordPress. Я прысвячаю сябе вывучэнню новых тэхналогій і пастаяннага ўдасканалення сваіх навыкаў, асабліва ў Svelte і React. Мае мэты ўключаюць далейшае ўдасканаленне маіх ведаў у JS, React, TypeScript і Svelte. Як дасведчаны распрацоўшчык Svelte, я добра разумею яго унікальны падыход да вэб-распрацоўцы, заснаваны на працэсе кампіляцыі, які дазваляе ствараць высокаэфектыўныя, хутка загружаюцца прыкладання з магутнай мадэллю рэактыўнага праграмавання і сістэмай кампанентаў. Я таксама актыўна працую над паляпшэннем сваіх навыкаў валодання англійскай і польскай мовамі, і я выявіў, што ChatGPT з\'яўляецца выдатным інструментам для паскарэння майго працэсу распрацоўкі.',
   skills: ['English: B2', 'Polish: A2', 'HTML', 'CSS/SCSS', 'JS', 'Svelte', 'React', 'ReactHooks', 'TypeScript', 'GIT', 'Redux', 'Ajax', 'GraphQL', 'Material UI',
     'Bootstrap', 'BEM', 'PixelPerfect', 'Wordpress', 'Unit tests', 'Formik', 'ChatGPT'],
   portfolio: {
